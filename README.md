@@ -30,7 +30,7 @@ Project Motivation: I enjoy playing basketball. It's hard to determine the effec
 - Charles Joseph
 
 ## License
-[MIT OPENSOURCE LICENSE](LICENSE.txt)
+[MIT OPENSOURCE LICENSE](LICENSE.TXT)
 
 ## Acknowledgements
 - Kutner, M. H., Nachtsheim, C. J., & Neter, J. (2004). Applied Linear Regression Models: Michael H. Kutner, Christopher J. Nachtsheim, John Neter. McGraw-Hill. for their section on automatic model selection

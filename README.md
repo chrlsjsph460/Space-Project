@@ -37,10 +37,10 @@ Project Motivation: I enjoy playing basketball. It's hard to determine the effec
 - [Kaggle](https://www.kaggle.com/) for their [NBA shot logs](https://www.kaggle.com/datasets/dansbecker/nba-shot-logs) dataset
 
 ## Notebooks
--[Automatic Model Selection](sequential_forward_selection.ipynb)
--[Plotting functions](shotLog_functions.ipynb)
--[Main File](CrispdmProject.ipynb)
--[Html of project](Space-Project.html)
+- [Automatic Model Selection](sequential_forward_selection.ipynb)
+- [Plotting functions](shotLog_functions.ipynb)
+- [Main File](CrispdmProject.ipynb)
+- [Html of project](Space-Project.html)
 
 How to interact with your project: Mess around with the Jupyter notebooks.
 

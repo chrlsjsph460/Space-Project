@@ -34,13 +34,13 @@ Project Motivation: I enjoy playing basketball. It's hard to determine the effec
 
 ## Acknowledgements
 - Kutner, M. H., Nachtsheim, C. J., & Neter, J. (2004). Applied Linear Regression Models: Michael H. Kutner, Christopher J. Nachtsheim, John Neter. McGraw-Hill. for their section on automatic model selection
-- [kaggle](https://www.kaggle.com/) for their NBA shotlog dataset
+- [Kaggle](https://www.kaggle.com/) for their [NBA shot logs](https://www.kaggle.com/datasets/dansbecker/nba-shot-logs) dataset
 
 ## Notebooks
-[automatic model selection]()
-[other helper functions]()
-[main file]()
-[html of main file]()
+-[Automatic Model Selection](sequential_forward_selection.ipynb)
+-[Plotting functions](shotLog_functions.ipynb)
+-[Main File](CrispdmProject.ipynb)
+-[Html of project](Space-Project.html)
 
 How to interact with your project: Mess around with the Jupyter notebooks.
 

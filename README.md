@@ -1,5 +1,5 @@
 # Space-Project
-Explore the effect of space to player's eFG
+Explore the effect of space to player's effective field goal percentage (eFG)
 
 ## Table of Contents
 1. [Description](#description)
@@ -17,8 +17,16 @@ File Description: shotLog_functions.py -> sequential_forward_selection: Automate
 ## Getting Started
 ### Dependencies
 - Python 3
-- ETL Library: Pandas and Numpy
-- Linear Regression: 
+  - Jupyter Notebook
+  - ETL Library: 
+    - Pandas 
+    - Numpy
+  - Linear Regression: 
+    - statsmodels 
+    - sklearn 
+  - Plots:
+    - matplotlib
+    - seaborn
 
 ## Authors
 - Charles Joseph
@@ -27,15 +35,14 @@ File Description: shotLog_functions.py -> sequential_forward_selection: Automate
 
 
 ## Acknowledgements
-
-
+- Kutner, M. H., Nachtsheim, C. J., & Neter, J. (2004). Applied Linear Regression Models: Michael H. Kutner, Christopher J. Nachtsheim, John Neter. McGraw-Hill. for their section on automatic model selection
+- [kaggle](https://www.kaggle.com/) for their NBA shotlog dataset
 
 ## Notebooks
-
-Installations: numpy pandas matplotlib.pyplot statsmodels.api statsmodels.formula.api sklearn.preprocessing statsmodels.graphics.gofplots.
-
-
+[automatic model selection]()
+[other helper functions]()
+[main file]()
+[html of main file]()
 
 How to interact with your project: Mess around with the Jupyter notebooks.
 
-Licensing, Authors, Acknowledgements, etc. Author: Charles Joseph Automated model selection: Kutner, M. H., Nachtsheim, C. J., & Neter, J. (2004). Applied Linear Regression Models: Michael H. Kutner, Christopher J. Nachtsheim, John Neter. McGraw-Hill.
